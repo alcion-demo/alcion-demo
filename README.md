@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Demo-YH&theme=tokyonight)<br>
 
 ### Used Languages
-![](https://skillicons.dev/icons?i=php,cpp,html,python,typescript,kotlin,linux)
+![](https://skillicons.dev/icons?i=php,cpp,html,python,typescript,kotlin)
 
 ### Used FrameWork
 ![](https://skillicons.dev/icons?i=laravel,angular)
