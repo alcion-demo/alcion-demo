@@ -1,10 +1,11 @@
-### alcion-demo 🦜
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=Cyan&width=500&lines=Coding;Side+job;I+want+to+do+it!" />
+### alcion-demo 🦜  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+want+to+coding+and+side+job)](https://git.io/typing-svg)  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
-</picture>
+</picture>  
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&theme=tokyonight&layout=compact)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
@@ -24,7 +25,8 @@
 ### Used FrameWork & DevTool
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"  />     
 
 <!--
 **alcion-demo/alcion-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
