@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
-</picture>  
+</picture>
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&theme=tokyonight&layout=compact)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
@@ -15,7 +15,7 @@
 ![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)<br>
 
-### Used Languages
+### Used skill
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" /> 
