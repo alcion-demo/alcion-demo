@@ -1,10 +1,6 @@
 ### alcion-demo 🦜
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Coding;Side+job;I+want+to+do+it!" />
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=alcion-demo&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alcion-demo&theme=tokyonight)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
@@ -23,7 +19,13 @@
 ![](https://skillicons.dev/icons?i=laravel,angular)
 
 ### Used DevTool
-![](https://skillicons.dev/icons?i=linux,docker,visualstudio,vscode)
+![](https://skillicons.dev/icons?i=linux,docker,visualstudio,vscode)  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
+</picture>  
 <!--
 **alcion-demo/alcion-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
