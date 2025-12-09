@@ -7,12 +7,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
 </picture>  
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&theme=tokyonight&layout=compact)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&layout=compact&theme=tokyonight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alcion-demo&theme=tokyonight&utcOffset=8)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
 ![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)<br>
 
