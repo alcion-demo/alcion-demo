@@ -1,5 +1,4 @@
 ### Demo-YH 🦜
-![](logo.png)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Demo-YH&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Demo-YH&theme=tokyonight)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demo-YH&theme=tokyonight)<br>
