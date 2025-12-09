@@ -19,11 +19,8 @@
 ### Used Languages
 ![](https://skillicons.dev/icons?i=php,cpp,html,python,typescript,kotlin)
 
-### Used FrameWork
-![](https://skillicons.dev/icons?i=laravel,angular)
-
-### Used DevTool
-![](https://skillicons.dev/icons?i=linux,docker,visualstudio,vscode)  
+### Used FrameWork & DevTool
+![](https://skillicons.dev/icons?i=laravel,angular,linux,docker,visualstudio,vscode)
 
 <!--
 **alcion-demo/alcion-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
