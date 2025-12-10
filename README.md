@@ -9,7 +9,6 @@
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&layout=compact&theme=tokyonight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alcion-demo&theme=tokyonight)
