@@ -7,16 +7,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
 </picture>  
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alcion-demo&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alcion-demo&theme=tokyonight&utcOffset=8)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
-![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)<br>
-
 ### Used skill
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/> 
@@ -27,7 +17,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"  />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"  />  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alcion-demo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alcion-demo&theme=tokyonight&utcOffset=8)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
+![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)<br>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
 
 <!--
 **alcion-demo/alcion-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
