@@ -7,18 +7,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake.svg" />
 </picture>  
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lcion-demo/alcion-demo/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lcion-demo/alcion-demo/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
 
 <p align="left" >
 	<picture>
