@@ -9,22 +9,6 @@
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lcion-demo/alcion-demo/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lcion-demo/alcion-demo/lcion-demo/alcion-demo/output-3d-contrib/day.svg" />
-  </picture>
-</p>
-
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alcion-demo&layout=compact&theme=tokyonight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
