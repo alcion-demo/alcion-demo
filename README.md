@@ -1,4 +1,5 @@
 ### alcion-demo 🦜  
+#
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+want+to+coding+and+side+job)](https://git.io/typing-svg)  
 
 <picture>
@@ -22,11 +23,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alcion-demo&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alcion-demo&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alcion-demo&theme=tokyonight&utcOffset=8)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)<br>
-![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alcion-demo&theme=tokyonight&utcOffset=8)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alcion-demo&theme=tokyonight)  
+![](https://github-trophies.vercel.app/?username=alcion-demo&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=alcion-demo&theme=tokyonight)  
+
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
+
 
 <!--
 **alcion-demo/alcion-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
