@@ -8,6 +8,9 @@ on:
   # 手動実行（Actionsタブからボタンでも実行できる）
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     # GitHubが提供するUbuntu環境で実行
