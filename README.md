@@ -1,6 +1,6 @@
 ### alcion-demo 🦜  
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+want+to+coding+and+side+job)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+want+to+coding+and+money)](https://git.io/typing-svg)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alcion-demo/alcion-demo/output/github-snake-dark.svg" />
