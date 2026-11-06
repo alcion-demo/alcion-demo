@@ -22,11 +22,9 @@ jobs:
       # 3D貢献グラフを生成
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          # Secrets に新しいトークンを登録していることが前提
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # 実行対象のGitHubユーザー名
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       # 生成結果をコミット＆プッシュ
       - name: Commit & Push
         run: |
